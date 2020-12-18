@@ -1,0 +1,9 @@
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+C:\Users\Anderson Bucchianico\Desktop\Weather\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
