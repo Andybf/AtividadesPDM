@@ -1,0 +1,15 @@
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\PDMAula05.csprojAssemblyReference.cache
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\View\AlunoViewPage.xaml.g.cs
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\PDMAula05.AssemblyInfoInputs.cache
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\PDMAula05.AssemblyInfo.cs
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\PDMAula05.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\bin\Debug\netstandard2.0\PDMAula05.deps.json
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\bin\Debug\netstandard2.0\PDMAula05.dll
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\bin\Debug\netstandard2.0\ref\PDMAula05.dll
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\bin\Debug\netstandard2.0\PDMAula05.pdb
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\PDMAula05.dll
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\ref\PDMAula05.dll
+C:\Users\Anderson Bucchianico\source\repos\PDMAula05\PDMAula05\PDMAula05\obj\Debug\netstandard2.0\PDMAula05.pdb

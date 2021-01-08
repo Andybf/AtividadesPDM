@@ -1,0 +1,3 @@
+WeatherApp.Droid.MainActivity, WeatherApp.Android;crc64d7c46fe2d0e133dd.MainActivity
+WeatherApp.Droid.MainActivity;crc64d7c46fe2d0e133dd.MainActivity
+weatherapp.droid.MainActivity;crc64d7c46fe2d0e133dd.MainActivity
